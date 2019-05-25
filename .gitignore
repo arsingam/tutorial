@@ -1,0 +1,6 @@
+# ignore file type pyc
+*.pyc
+
+# ignore entire directory
+/venv/
+
